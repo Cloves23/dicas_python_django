@@ -27,7 +27,7 @@ Python possui 8 operadores de comparação que são listados abaixo:
 |is       | identidade do objeto        | Não personalizável
 |is not   | nega a identidade do objeto | Não personalizável
 
-**ATENÇÃO**: O operador `is` verifica se duas variáveis aponta exatamente para o mesmo objeto em memória, não se seus
+**ATENÇÃO**: O operador `is` verifica se duas variáveis apontam exatamente para o mesmo objeto em memória, não se seus
 valores são iguais.
 
 **Exemplo:**
