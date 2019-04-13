@@ -11,6 +11,8 @@ Python considera todos os tipos como verdadeiros em operações lógicas, exceto
 ###### Referências
 1. Python 3 docs: [docs.python.org](https://docs.python.org/3/library/stdtypes.html#truth-value-testing)
 
+---
+
 ### Lição 2
 Python possui 8 operadores de comparação que são listados abaixo:
 
@@ -41,6 +43,8 @@ print(a == b, a is b) # Resultado: True, False
 
 ###### Referências
 1. Python 3 docs: [docs.python.org](https://docs.python.org/3/library/stdtypes.html#comparisons)
+
+---
 
 ### Lição 3
 É possível utilizar operadores lógicos (`and`, `or`) como se fossem condicionais pra definir valores em variáveis.
