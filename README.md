@@ -15,5 +15,4 @@ número da lição, por último, o número do exercício.
 
 ### Material
 
-* [c] Conteúdos:
-    * Python: [`python.md`](conteudo/python.md)
+* [Python: Lista de conteúdos](conteudo/python/index.md)
